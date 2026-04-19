@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Claude / IDE / local
+.claude/
+CLAUDE.md
+.cursorrules
+.vscode/
+.idea/
+
+# Fly
+fly.*.toml
